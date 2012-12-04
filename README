@@ -1,0 +1,15 @@
+Run the program using:
+gcc ./test.c
+./a.out < input_file
+
+-----------------------------
+
+Input file format :
+<size of array>
+<array elements>
+.
+.
+.
+.
+<array elements>
+<search element>
